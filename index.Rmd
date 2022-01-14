@@ -1,0 +1,145 @@
+---
+title: "Samuel E. Marsh"
+image: "Images/2021_Headshot_Marsh_square_zoomed.jpeg"
+links:
+  - label: Google Scholar
+    url: "https://scholar.google.com/citations?user=BxMhd9wAAAAJ&hl=en"
+  - label: Twitter
+    url: "https://twitter.com/samuel_marsh"
+  - label: GitHub
+    url: "https://github.com/samuel-marsh"
+  - label: scCustomize R Pckage
+    url: "https://samuel-marsh.github.io/scCustomize/"
+  - label: Email
+    url: "mailto:samuel.marsh@childrens.harvard.edu"
+output:
+  postcards::trestles
+---
+
+## Bio
+
+I'm a postdoctoral fellow at Boston Children's Hospital/Harvard Medical School in the lab of Dr. Beth Stevens.  Broadly my research interests are focused on better understanding the immune cells of the brain, microglia, and their function and dysfunction in aging and neurodgenerative disease.  Currently, I'm utilizing single cell genomics to better characterize and understand microglia and their interactions with other brain cell populations with a focus on aging and Alzheimer's disease.
+
+## Education
+
+**The University of California, Irvine** | Irvine, CA
+
+Ph.D. in Neurobiology | September 2011 - September 2016
+
+**Northeastern University** | Boston, MA
+
+B.S. in Behavioral Neuroscience | September 2006 - April 2010
+
+## Experience
+
+**Boston Children's Hospital/Harvard Medical School** | Postdoctoral Fellow | September 2017 - Present
+
+**The University of California, Irvine** | Postdoctoral Fellow | September 2016 - September 2017
+
+
+## Publications
+
+#### Primary Research  
+
+**Marsh SE**, Abud, EM, Lakatos A, Karimzadeh A, Yeung ST, Davtyan H, Fote GM, Lau L,
+Weinger JG, Lane T, Inlay MA, Poon WW, Blurton-Jones M (2016).  The adaptive immune
+system restrains Alzheimer’s disease pathogenesis by modulating microglia function.
+*Proceedings of the National Academy of Sciences USA* 113(9):E1316–25.  
+![Open Access](https://img.shields.io/badge/-Open Access-green)
+[Full Text](https://doi.org/10.1073/pnas.1525466113) \| 
+[PDF Full Text](https://www.pnas.org/content/pnas/113/9/E1316.full.pdf) \| 
+[PDF SI Info](https://www.pnas.org/content/pnas/suppl/2016/02/13/1525466113.DCSupplemental/pnas.201525466SI.pdf) \| 
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/26884167/)
+
+**Marsh SE**, Yeung ST, Torres MD, Lau L, Davis JD, Monuki ES, Poon WW, Blurton-Jones M
+(2017).  HuCNS-SC human NSCs fail to terminally differentiate, form ectopic clusters, and
+provide no cognitive benefits in a transgenic model of Alzheimer’s disease.
+*Stem Cell Reports* 8(2):235-248.  
+![Open Access](https://img.shields.io/badge/-Open Access-green)
+[Full Text](https://doi.org/10.1016/j.stemcr.2016.12.019) \| 
+[PDF Full Text & SI Info]("Marsh_et_al_2017_HuCNS-SC.pdf") \| 
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/28199828/)
+
+Goldberg NRS, **Marsh SE**, Ochaba J, Shelley BC, Davtyan H, Thompson LM, Steffan JS,
+Svendsen CN, Blurton-Jones M (2017).  Human glial progenitor transplantation recuses
+behavioral deficits and alters alpha-synuclein oligomers in an immune-deficient model of
+Dementia with Lewy Bodies.  *Stem Cells Translational Medicine* 6:1477-90.  
+![Open Access](https://img.shields.io/badge/-Open Access-green)
+[Full Text](https://doi.org/10.1002/sctm.16-0362) \| 
+[PDF Full Text](https://watermark.silverchair.com/stcltm_6_6_1477.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAs4wggLKBgkqhkiG9w0BBwagggK7MIICtwIBADCCArAGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMlcbsCw3mTFUJJYnDAgEQgIICgc_ZRdGq1DtkQlOsbQXAZFTBqxhSF_aHAuH1Pgk0MbG0Bzh62UocZ5QW6-hzk6a5Ji--QAb0rDIAM9x2f9J_UOThPXd3hJ2tvgyeI8dVPFlEDcMyg-yZfdfyO88a8kVGdsOqSbpQLcg-etozS0c6QYsoDrGtYd_8NF_wJPrYLQ6gSNYTOjMIFMTqkyr1ZS1sG6xqTFWZyCqHo5xKqhE0v6um4juJ5BflNo7BOvgqeZFzJqiEwpIRKF_hPiMpTnKKN0XKgfD8N2y-0Sh-0YBIH1VWGD4UIVifOvk_sJzkoSvcWtPyK7BB-2exbRr9BoEf7CknC6vO88VY5yM-73PJ5sxGp95-Y08omAluHsNQjXpekqojCzClCKBeandvoGGKRCHrA_OB9Cp4Fjhs-DgFtUyWkDZBdVrcBP83y49y81GvO3r2IsbjQV4kAMa12w2QNPgwN2AYo1aR-XbGEQMtK_qoLzExBjmx_HxG87eU3fxsHBo4MifsNgxqVly_dndDzdqauM0OtdotBhHqfLz9aZo0I3kMcXR97tR9ui9cxJJnouA_Zl6XYDVZX2AAd9r9XFLxnnil0ptyafDFsFS60cxopq3dU8ohrBg9ceU2I4LZV0-E0YbuKoazulg_LmFh4GSy73ORNJinuOld6USftPcEPebUAQEFyPRIrT8hoqRIyDI8WRjG9Rm_2-_5VIOZb5BLEOQiLTZwfRttc05A3k2vIy4iOFKzPdbzK8D9JPEvQgNwLsE4Gr6d6tmYhoU3c1hrDmK6IHhSTQXfsnw-_xW4j-N-4LKsj0Sb1OWwv272rbv8tbYTsd_lWnkDH4KyXlpz6cZw7JvO6Oju8TkwmZoi) \| 
+[DOCX SI Info](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/stcltm/6/6/10.1002_sctm.16-0362/4/stcltm_6_6_1477_s2.docx?Expires=1645146532&Signature=V3ZL5blzFRnArmRPYXe04S90w3F9rQShPLen0flLI4cPgYUmsJTOIDAIxjyqDDNaUMI7Lj5Lyvm2em7cLRtKPt60UBtFviuQojmEiuJEU8gLcoPzSAYumpnzAKs4wD0kCnlcRJwVIaAUQRgOxo~~hiYZyY39-WScZBhEJmzDzWiVf2YSi5DzQWlrS8zXxhKaWSby615J6UpOHFEz6g-MRTXWCe9qA3ozljL~b5qODxIsuL9SJaB8PHNaJHq8g58hLeM7GxzezKvvJdmUbQHDWkVaC3IJ8p64vq1BGPH6DSRxV7My2fNlJ2Cgbk3qf1UK4RHfLBuIfab6~UhrGfNWog__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA) \| 
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/28225193/)
+
+Abud EM, Ramirez R, Martinez E, Healy L, Nguyen C, Newman S, Yeromin A, Scarfone V,
+**Marsh SE**, Fimbres C, Caraway C, Fote G, Mandany A, Agrawal A, Kayed R, Ghylys K,
+Cahalan M, Cummings B, Antel J, Mortazavi A, Carson M, Poon W, Blurton-Jones M
+(2017).  iPSC-derived human microglia-like cells to study neurological diseases.  *Neuron* 94(2):
+278-293.  
+![Open Access](https://img.shields.io/badge/-Open Access-green)
+[Full Text](https://doi.org/10.1016/j.neuron.2017.03.042) \| 
+[PDF Full Text & SI Info](https://www.cell.com/neuron/pdfExtended/S0896-6273(17)30286-6) \| 
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/28426964/)
+
+Mathur V, Burai R, Vest RT, Bonanno LN, Lehallier B, Zardeneta M, Mistry KN, Do D,
+**Marsh SE**, Abud EM, Blurton-Jones M, Li L, Lashuel HA, Wyss-Coray T (2017).  Activation
+of the STING-dependent type I interferon response reduces microglial reactivity and
+neuroinflammation.  *Neuron* 96(6): 1290-1302.  
+![Open Access](https://img.shields.io/badge/-Open Access-green)
+[Full Text](https://doi.org/10.1016/j.neuron.2017.11.032) \| 
+[PDF Full Text & SI Info](https://www.cell.com/neuron/pdfExtended/S0896-6273(17)31085-1) \| 
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/29268096/)
+
+Hammond TR, Dufort C, Dissing-Olesen L, Giera S, Young A, Wysoker A, Walker AJ,
+Gergits F, Segel M, Nemesh J, **Marsh SE**, Saunders A, Macosko E, Ginhoux F, Chen J,
+Franklin RJM, Piao X, McCarroll SA, and Stevens B (2019).  Single-Cell RNA
+Sequencing of Microglia throughout the Mouse Lifespan and in the Injured Brain Reveals
+Complex Cell-State Changes.  *Immunity* 50(1): 253-271.e6.  
+![Open Access](https://img.shields.io/badge/-Open Access-green)
+[Full Text](https://doi.org/10.1016/j.immuni.2018.11.004) \| 
+[PDF Full Text & SI Info](https://www.cell.com/immunity/pdfExtended/S1074-7613(18)30485-0) \| 
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/30471926/)
+
+Shukla AK, McIntyre LL, **Marsh SE**, Schneider CA, Hoover EM, Walsh CT, Lodoen MB,
+Blurton-Jones M, Inlay MA (2019).  CD11a expression distinguishes infiltrating myeloid
+cells from plaque-associated microglia in Alzheimer’s disease.  *Glia* 67(5): 844-856.  
+[Journal Link](https://doi.org/10.1002/glia.23575) \| 
+[Request PDF Copy](https://tinyurl.com/2p9dvebe) \| 
+[DOCX SI Info](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fglia.23575&file=glia23575-sup-0001-Supinfo.docx) \| 
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/30588668/)
+
+Quershi YH, Berman DE, **Marsh SE**, Klein RL, Patel VM, Simoes S, Kannan S, Petsko GA,
+Stevens B, Small SA (2022, in press).  The neuronal retromer can regulate both neuronal and
+Microglial phenotypes of Alzheimer’s disease.  *Cell Reports*.  
+[Full Text](XXX) \| 
+[PDF Full Text](XXX) \| 
+[PDF SI Info](XXX) \| 
+[PubMed](XXX)
+
+### Reviews
+**Marsh SE** & Blurton-Jones, M (2012).  Examining the mechanisms that link beta-amyloid and
+alpha-synuclein pathologies.  *Alzheimer’s Research & Therapy* 4(2), 11a.  
+![Open Access](https://img.shields.io/badge/-Open Access-green)
+[Full Text](https://doi.org/10.1186/alzrt109) \| 
+[PDF Full Text](https://rdcu.be/cEZUX) \| 
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/22546279/)
+
+**Marsh SE** & Blurton-Jones M (2017).  Neural stem cell therapy for neurodegenerative
+disorders: The importance of neurotrophic support.  *Neurochemistry International* 106:94-100.  
+[Full Text](https://doi.org/10.1016/j.neuint.2017.02.006) \| 
+[Request PDF Full Text](https://tinyurl.com/vcwet6ym) \| 
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/28219641/)
+
+Hammond TR\*, **Marsh SE\***, Stevens B (2019).  Immune Signaling in Neurodegeneration.
+*Immunity* 50(4): 955-974.  
+<sup>\*Equal Contribution</sup>  
+![Open Access](https://img.shields.io/badge/-Open Access-green)
+[Full Text](https://doi.org/10.1016/j.immuni.2019.03.016) \| 
+[PDF Full Text](https://www.cell.com/action/showPdf?pii=S1074-7613%2819%2930133-5) \| 
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/30995509/)
+
+Liddelow S\*, **Marsh SE\* **, Stevens B\* (2020).  Microglia and astrocytes in health and disease:
+Dynamic Duo or Partners in Crime?  *Trends in Immunology* 41(9): 820-835.  
+<sup>\*Equal Contribution</sup>  
+[Full Text](https://doi.org/10.1016/j.it.2020.07.006) \| 
+[Request PDF Full Text](https://tinyurl.com/2tr4cnya) \| 
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/32819809/)
