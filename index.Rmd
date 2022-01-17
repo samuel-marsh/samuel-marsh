@@ -8,7 +8,7 @@ links:
     url: "https://twitter.com/samuel_marsh"
   - label: GitHub
     url: "https://github.com/samuel-marsh"
-  - label: scCustomize R Pckage
+  - label: scCustomize R Package
     url: "https://samuel-marsh.github.io/scCustomize/"
   - label: Email
     url: "mailto:samuel.marsh@childrens.harvard.edu"
@@ -124,7 +124,7 @@ system restrains Alzheimer’s disease pathogenesis by modulating microglia func
 `r emo::ji("boom")`Liddelow S\*, **Marsh SE\* **, Stevens B\* (2020).  Microglia and astrocytes in health and disease:
 Dynamic Duo or Partners in Crime?  *Trends in Immunology* 41(9): 820-835.  
 <sup>\*Equal Contribution</sup>  
-[Full Text](https://doi.org/10.1016/j.it.2020.07.006) \| 
+[Journal Link](https://doi.org/10.1016/j.it.2020.07.006) \| 
 [Request PDF Full Text](https://tinyurl.com/2tr4cnya) \| 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/32819809/)
 
@@ -138,7 +138,7 @@ Dynamic Duo or Partners in Crime?  *Trends in Immunology* 41(9): 820-835.
 
 **Marsh SE** & Blurton-Jones M (2017).  Neural stem cell therapy for neurodegenerative
 disorders: The importance of neurotrophic support.  *Neurochemistry International* 106:94-100.  
-[Full Text](https://doi.org/10.1016/j.neuint.2017.02.006) \| 
+[Journal Link](https://doi.org/10.1016/j.neuint.2017.02.006) \| 
 [Request PDF Full Text](https://tinyurl.com/vcwet6ym) \| 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/28219641/)
 
