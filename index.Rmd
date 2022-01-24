@@ -41,6 +41,14 @@ B.S. in Behavioral Neuroscience | September 2006 - April 2010
 
 #### Primary Research  
 
+Quershi YH, Berman DE, **Marsh SE**, Klein RL, Patel VM, Simoes S, Kannan S, Petsko GA,
+Stevens B, Small SA (2022, in press).  The neuronal retromer can regulate both neuronal and
+Microglial phenotypes of Alzheimer’s disease.  *Cell Reports* 38(3) 110262.   
+![Open Access](https://img.shields.io/badge/-Open Access-green)
+[[Full Text]](https://doi.org/10.1016/j.celrep.2021.110262)
+[[PDF Full Text]](https://www.cell.com/cell-reports/pdfExtended/S2211-1247(21)01774-5)
+[[PubMed]](https://pubmed.ncbi.nlm.nih.gov/35045281/)
+
 `r emo::ji("boom")`**Marsh SE**, Kamath T, Walker AJ, Dissing-Olesen L, Hammond TR, Young AMH,
 Abdulraouf A, Nadaf N, Dufort C, Murphy S, Kozareva V, Vanderburg C, Hong S, Bulstrode H,
 Hutchinson PJ, Gaffney DJ, Franklin RJM, Macosko EZ, Stevens B (2020).  Single Cell 
@@ -50,7 +58,7 @@ in Mice and Humans. *bioRxiv\* *, 2020.12.03.408542.
 ![Open Access](https://img.shields.io/badge/-Open Access-green)
 [Full Text](https://doi.org/10.1101/2020.12.03.408542) \| 
 [PDF Full Text](https://www.biorxiv.org/content/10.1101/2020.12.03.408542v1.full.pdf) \| 
-[PDF SI Figures](https://www.biorxiv.org/content/biorxiv/early/2020/12/03/2020.12.03.408542/DC1/embed/media-1.pdf?download=true) \| 
+[PDF Full Text & SI Info](https://www.biorxiv.org/content/biorxiv/early/2020/12/03/2020.12.03.408542/DC1/embed/media-1.pdf?download=true) \| 
 [PDF SI Notes & Discussion](https://www.biorxiv.org/content/biorxiv/early/2020/12/03/2020.12.03.408542/DC2/embed/media-2.pdf?download=true) \| 
 [Code](https://github.com/samuel-marsh/Marsh_et-al_2020_scRNAseq_Dissociation_Artifacts)
 
