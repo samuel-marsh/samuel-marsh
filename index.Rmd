@@ -42,7 +42,7 @@ B.S. in Behavioral Neuroscience | September 2006 - April 2010
 #### Primary Research  
 
 Quershi YH, Berman DE, **Marsh SE**, Klein RL, Patel VM, Simoes S, Kannan S, Petsko GA,
-Stevens B, Small SA (2022, in press).  The neuronal retromer can regulate both neuronal and
+Stevens B, Small SA (2022).  The neuronal retromer can regulate both neuronal and
 Microglial phenotypes of Alzheimer’s disease.  *Cell Reports* 38(3) 110262.   
 ![Open Access](https://img.shields.io/badge/-Open Access-green)
 [[Full Text]](https://doi.org/10.1016/j.celrep.2021.110262)
