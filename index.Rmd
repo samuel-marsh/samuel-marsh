@@ -66,7 +66,7 @@ Shukla AK, McIntyre LL, **Marsh SE**, Schneider CA, Hoover EM, Walsh CT, Lodoen 
 Blurton-Jones M, Inlay MA (2019).  CD11a expression distinguishes infiltrating myeloid
 cells from plaque-associated microglia in Alzheimer’s disease.  *Glia* 67(5): 844-856.  
 [Journal Link](https://doi.org/10.1002/glia.23575) \| 
-[Request PDF Copy](https://tinyurl.com/2p9dvebe) \| 
+![Free](https://img.shields.io/badge/-Free-blueviolet) [PDF Full Text](https://samuel-marsh.science/PDFs/Shukla_et_al_2019.pdf) \| 
 [DOCX SI Info](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fglia.23575&file=glia23575-sup-0001-Supinfo.docx) \| 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/30588668/)
 
@@ -115,7 +115,7 @@ provide no cognitive benefits in a transgenic model of Alzheimer’s disease.
 *Stem Cell Reports* 8(2):235-248.  
 ![Open Access](https://img.shields.io/badge/-Open Access-green)
 [Full Text](https://doi.org/10.1016/j.stemcr.2016.12.019) \| 
-[PDF Full Text & SI Info](https://tinyurl.com/2p9budt6) \| 
+[PDF Full Text & SI Info](https://www.cell.com/stem-cell-reports/pdfExtended/S2213-6711(16)30309-5) \| 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/28199828/)
 
 `r emo::ji("boom")`**Marsh SE**, Abud, EM, Lakatos A, Karimzadeh A, Yeung ST, Davtyan H, Fote GM, Lau L,
@@ -133,7 +133,7 @@ system restrains Alzheimer’s disease pathogenesis by modulating microglia func
 Dynamic Duo or Partners in Crime?  *Trends in Immunology* 41(9): 820-835.  
 <sup>\*Equal Contribution</sup>  
 [Journal Link](https://doi.org/10.1016/j.it.2020.07.006) \| 
-[Request PDF Full Text](https://tinyurl.com/2tr4cnya) \| 
+![Free](https://img.shields.io/badge/-Free-blueviolet) [PDF Full Text](https://samuel-marsh.science/PDFs/Liddelow_et_al_2020.pdf) \| 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/32819809/)
 
 `r emo::ji("boom")`Hammond TR\*, **Marsh SE\***, Stevens B (2019).  Immune Signaling in Neurodegeneration.
@@ -147,7 +147,7 @@ Dynamic Duo or Partners in Crime?  *Trends in Immunology* 41(9): 820-835.
 **Marsh SE** & Blurton-Jones M (2017).  Neural stem cell therapy for neurodegenerative
 disorders: The importance of neurotrophic support.  *Neurochemistry International* 106:94-100.  
 [Journal Link](https://doi.org/10.1016/j.neuint.2017.02.006) \| 
-[Request PDF Full Text](https://tinyurl.com/vcwet6ym) \| 
+![Free](https://img.shields.io/badge/-Free-blueviolet) [PDF Full Text](https://samuel-marsh.science/PDFs/Marsh_%26_Blurton-Jones_2017.pdf) \| 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/28219641/)
 
 **Marsh SE** & Blurton-Jones, M (2012).  Examining the mechanisms that link beta-amyloid and
