@@ -12,6 +12,12 @@ output:
 
 #### Primary Research  
 
+`r emo::ji("boom")`**Marsh SE**, Walker, AJ, Kamath, T, Dissing-Olesen, L, Hammond, TR, de Soysa, TY, Young, AMH, Murphy, S, Abdulraouf, A, Nadaf, N, Dufort, C, Walker, AC, Lucca, LE, Kozareva, V, Vanderburg, C, Hong, S, Bulstrode, H, Hutchinson, PJ, Gaffney, DJ, Hafler, DA, Franklin, RJM, Macosko, EZ, Stevens, B (2022).  Dissection of artifactual and confounding glial signatures by single-cell sequencing of mouse and human brain. *Nature Neuroscience* 25(3), 306-316.
+[Journal Link](https://doi.org/10.1038/s41593-022-01022-8) \| 
+![Free](https://img.shields.io/badge/-Free-blueviolet) [PDF Full Text](https://samuel-marsh.science/PDFs/Marsh_et_al_2022.pdf) \| 
+[PDF SI Figures & Notes/Discussion](https://samuel-marsh.science/PDFs/Marsh_et_al_2022_SI.pdf) \| 
+[Code](https://github.com/samuel-marsh/Marsh_et-al_2022_scRNAseq_Dissociation_Artifacts)
+
 Quershi YH, Berman DE, **Marsh SE**, Klein RL, Patel VM, Simoes S, Kannan S, Petsko GA,
 Stevens B, Small SA (2022).  The neuronal retromer can regulate both neuronal and
 Microglial phenotypes of Alzheimer’s disease.  *Cell Reports* 38(3) 110262.   
@@ -19,19 +25,6 @@ Microglial phenotypes of Alzheimer’s disease.  *Cell Reports* 38(3) 110262.
 [Full Text](https://doi.org/10.1016/j.celrep.2021.110262) \| 
 [PDF Full Text & SI Info](https://www.cell.com/cell-reports/pdfExtended/S2211-1247(21)01774-5) \| 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/35045281/)  
-
-`r emo::ji("boom")`**Marsh SE**, Kamath T, Walker AJ, Dissing-Olesen L, Hammond TR, Young AMH,
-Abdulraouf A, Nadaf N, Dufort C, Murphy S, Kozareva V, Vanderburg C, Hong S, Bulstrode H,
-Hutchinson PJ, Gaffney DJ, Franklin RJM, Macosko EZ, Stevens B (2020).  Single Cell 
-Sequencing Reveals Glial Specific Responses to Tissue Processing & Enzymatic Dissociation 
-in Mice and Humans. *bioRxiv\* *, 2020.12.03.408542.  
-<sup>\*Updated and revised version currently *in press*, Nature Neuroscience</sup>  
-![Open Access](https://img.shields.io/badge/-Open Access-green)
-[Full Text](https://doi.org/10.1101/2020.12.03.408542) \| 
-[PDF Full Text](https://www.biorxiv.org/content/10.1101/2020.12.03.408542v1.full.pdf) \| 
-[PDF SI Figures](https://www.biorxiv.org/content/biorxiv/early/2020/12/03/2020.12.03.408542/DC1/embed/media-1.pdf?download=true) \| 
-[PDF SI Notes & Discussion](https://www.biorxiv.org/content/biorxiv/early/2020/12/03/2020.12.03.408542/DC2/embed/media-2.pdf?download=true) \| 
-[Code](https://github.com/samuel-marsh/Marsh_et-al_2020_scRNAseq_Dissociation_Artifacts)
 
 Shukla AK, McIntyre LL, **Marsh SE**, Schneider CA, Hoover EM, Walsh CT, Lodoen MB,
 Blurton-Jones M, Inlay MA (2019).  CD11a expression distinguishes infiltrating myeloid
