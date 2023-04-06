@@ -92,7 +92,12 @@ system restrains Alzheimer’s disease pathogenesis by modulating microglia func
 [PDF SI Info](https://www.pnas.org/content/pnas/suppl/2016/02/13/1525466113.DCSupplemental/pnas.201525466SI.pdf) \|
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/26884167/)
 
-### Reviews
+### Reviews  
+
+Kloske CM, Barnum CJ, Batista AF, Bradshaw EM, Brickman AM, Bu G, Dennison J, Gearon MD, Goate AM, Haass C, Heneka MT, Hu WT, Huggins LKL, Jones NS, Koldamova R, Lemere CA, Liddelow SA, Marcora E, **Marsh SE**, Nielsen HM, Petersen KK, Petersen M, Piña-Escudero SD, Qiu WQ, Quiroz YT, Reiman E, Sexton C, Tansey MG, Tcw J, Teunissen CE, Tijms BM, van der Kant R, Wallings R, Weninger SC, Wharton W, Wilcock DM, Wishard TJ, Worley SL, Zetterberg H, Carrillo MC (2023). APOE and immunity: Research highlights.  *Alzheimers Dement*, PMID: 36975090. 10.1002/alz.13020.  
+![Open Access](https://img.shields.io/badge/-Open Access-green)
+[Full Text](https://doi.org/10.1002/alz.13020) \| [PDF Full Text](https://alz-journals.onlinelibrary.wiley.com/doi/epdf/10.1002/alz.13020) \| [PubMed](https://pubmed.ncbi.nlm.nih.gov/36975090/)
+  
 `r emo::ji("boom")`Liddelow S\*, **Marsh SE\* **, Stevens B\* (2020).  Microglia and astrocytes in health and disease:
 Dynamic Duo or Partners in Crime?  *Trends in Immunology* 41(9): 820-835.  
 <sup>\*Equal Contribution</sup>  
