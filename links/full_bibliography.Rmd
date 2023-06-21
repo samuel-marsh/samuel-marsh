@@ -12,11 +12,26 @@ output:
 
 #### Primary Research  
 
+Dolan M-J, Therrien M, Jereb S, Kamath T, Gazestani V, Atkeson T, Marsh SE, Goeva A, Lojek NM, Murphy S, White CM, Joung J, Liu B, Limone F, Eggan K, Hacohen N, Bernstein BE, Glass CK, Leinonen V, Blurton-Jones M, Zhang F, Epstein CB, Macosko EZ, Stevens B (2023).  Exposure of iPSC-derived human microglia to brain substrates enables generation and manipulation of diverse transcriptional states in vitro. *Nature Immunology*
+![Open Access](https://img.shields.io/badge/-Open Access-green) [Preprint Link](TBD) \| 
+![Free](https://img.shields.io/badge/-Free-blueviolet) [PDF Full Text](TBD) \| 
+[SI Figures](TBD) \| 
+[Pubmed](TBD) 
+
+
+Gazestani V, Kamath T, Nadaf NM, Burris SJ, Rooney B, Junkkari A, Vanderburg C, Rauramaa T, Therrien M, Tegtmeyer M, Herukka SK, Abdulraouf A, **Marsh SE**, Malm T, Hiltunen M, Nehme R, Stevens B, Leinonen V, Macosko EZ (2023). Early Alzheimer’s disease pathology in human cortex is associated with a transient phase of distinct cell states. *bioRxiv* PMID: 37333365. doi.org/10.1101/2023.06.03.543569.  
+![Open Access](https://img.shields.io/badge/-Open Access-green) [Preprint Link](https://doi.org/10.1101/2023.06.03.543569) \| 
+![Free](https://img.shields.io/badge/-Free-blueviolet) [PDF Full Text](https://www.biorxiv.org/content/10.1101/2023.06.03.543569v1.full.pdf) \| 
+[SI Tables](https://www.biorxiv.org/content/10.1101/2023.06.03.543569v1.supplementary-material) \| 
+[Data Link](https://braincelldata.org/resource)  
+
+
 `r emo::ji("boom")`**Marsh SE**, Walker, AJ, Kamath, T, Dissing-Olesen, L, Hammond, TR, de Soysa, TY, Young, AMH, Murphy, S, Abdulraouf, A, Nadaf, N, Dufort, C, Walker, AC, Lucca, LE, Kozareva, V, Vanderburg, C, Hong, S, Bulstrode, H, Hutchinson, PJ, Gaffney, DJ, Hafler, DA, Franklin, RJM, Macosko, EZ, Stevens, B (2022).  Dissection of artifactual and confounding glial signatures by single-cell sequencing of mouse and human brain. *Nature Neuroscience* 25(3), 306-316.  
 [Journal Link](https://doi.org/10.1038/s41593-022-01022-8) \| 
 ![Free](https://img.shields.io/badge/-Free-blueviolet) [PDF Full Text](https://samuel-marsh.science/PDFs/Marsh_et_al_2022.pdf) \| 
 [PDF SI Figures & Notes/Discussion](https://samuel-marsh.science/PDFs/Marsh_et_al_2022_SI.pdf) \| 
-[Code](https://github.com/samuel-marsh/Marsh_et-al_2022_scRNAseq_Dissociation_Artifacts)
+[Code](https://github.com/samuel-marsh/Marsh_et-al_2022_scRNAseq_Dissociation_Artifacts) \| 
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/35260865/) \| 
 
 Quershi YH, Berman DE, **Marsh SE**, Klein RL, Patel VM, Simoes S, Kannan S, Petsko GA,
 Stevens B, Small SA (2022).  The neuronal retromer can regulate both neuronal and
@@ -42,7 +57,8 @@ Complex Cell-State Changes.  *Immunity* 50(1): 253-271.e6.
 ![Open Access](https://img.shields.io/badge/-Open Access-green)
 [Full Text](https://doi.org/10.1016/j.immuni.2018.11.004) \| 
 [PDF Full Text & SI Info](https://www.cell.com/immunity/pdfExtended/S1074-7613(18)30485-0) \| 
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/30471926/)
+[Processed Data Link](https://github.com/samuel-marsh/Hammond-et-al_2019_Microglia_scRNAseq) \| 
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/30471926/)  
 
 Mathur V, Burai R, Vest RT, Bonanno LN, Lehallier B, Zardeneta M, Mistry KN, Do D,
 **Marsh SE**, Abud EM, Blurton-Jones M, Li L, Lashuel HA, Wyss-Coray T (2017).  Activation
