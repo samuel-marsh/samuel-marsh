@@ -44,11 +44,13 @@ Selected bibliography can be found below and full bibliography can be found [her
 
 #### Primary Research  
 
-Gazestani V, Kamath T, Nadaf NM, Burris SJ, Rooney B, Junkkari A, Vanderburg C, Rauramaa T, Therrien M, Tegtmeyer M, Herukka SK, Abdulraouf A, **Marsh SE**, Malm T, Hiltunen M, Nehme R, Stevens B, Leinonen V, Macosko EZ (2023). Early Alzheimer’s disease pathology in human cortex is associated with a transient phase of distinct cell states. *bioRxiv* PMID: 37333365. doi.org/10.1101/2023.06.03.543569.  
-![Open Access](https://img.shields.io/badge/-Open Access-green) [Preprint Link](https://doi.org/10.1101/2023.06.03.543569) \| 
-![Free](https://img.shields.io/badge/-Free-blueviolet) [PDF Full Text](https://www.biorxiv.org/content/10.1101/2023.06.03.543569v1.full.pdf) \| 
-[SI Tables](https://www.biorxiv.org/content/10.1101/2023.06.03.543569v1.supplementary-material) \| 
-[Data Link](https://braincelldata.org/resource)  
+Gazestani V, Kamath T, Nadaf NM, Dougalis A, Burris SJ, Rooney B, Junkkari A, Vanderburg C, Pelkonen A, Gomez-Budia M, Välimäki NN, Rauramaa T, Therrien M, Koivisto AM, Tegtmeyer M, Herukka SK, Abdulraouf A, **Marsh SE**, Hiltunen M, Nehme R, Malm T, Stevens B, Leinonen V, Macosko EZ (2023). Early Alzheimer’s disease pathology in human cortex involves transient cell states. *Cell*, 186(20):4438--4453.e23.  PMID: 37774681. doi.org/10.1016/j.cell.2023.08.005.  
+![Open Access](https://img.shields.io/badge/-Open Access-green) [Journal Link](https://doi.org/10.1016/j.cell.2023.08.005) \| 
+![Free](https://img.shields.io/badge/-Free-blueviolet) [PDF Full Text](https://www.cell.com/action/showPdf?pii=S0092-8674%2823%2900859-0) \| 
+[SI Tables](https://www.cell.com/cell/fulltext/S0092-8674(23)00859-0#supplementaryMaterial) \| 
+[Data Link](https://braincelldata.org/resource) \|
+[Code](https://app.terra.bio/#workspaces/fbrihuman/sconline_integrative_analysis) \|
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/37774681/)  
 
 
 `r emo::ji("boom")`**Marsh SE**, Walker, AJ, Kamath, T, Dissing-Olesen, L, Hammond, TR, de Soysa, TY, Young, AMH, Murphy, S, Abdulraouf, A, Nadaf, N, Dufort, C, Walker, AC, Lucca, LE, Kozareva, V, Vanderburg, C, Hong, S, Bulstrode, H, Hutchinson, PJ, Gaffney, DJ, Hafler, DA, Franklin, RJM, Macosko, EZ, Stevens, B (2022).  Dissection of artifactual and confounding glial signatures by single-cell sequencing of mouse and human brain. *Nature Neuroscience* 25(3), 306-316.  
