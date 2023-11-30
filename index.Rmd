@@ -45,8 +45,8 @@ Selected bibliography can be found below and full bibliography can be found [her
 #### Primary Research  
 
 Gazestani V, Kamath T, Nadaf NM, Dougalis A, Burris SJ, Rooney B, Junkkari A, Vanderburg C, Pelkonen A, Gomez-Budia M, Välimäki NN, Rauramaa T, Therrien M, Koivisto AM, Tegtmeyer M, Herukka SK, Abdulraouf A, **Marsh SE**, Hiltunen M, Nehme R, Malm T, Stevens B, Leinonen V, Macosko EZ (2023). Early Alzheimer’s disease pathology in human cortex involves transient cell states. *Cell*, 186(20):4438--4453.e23.  PMID: 37774681. doi.org/10.1016/j.cell.2023.08.005.  
-![Open Access](https://img.shields.io/badge/-Open Access-green) [Journal Link](https://doi.org/10.1016/j.cell.2023.08.005) \| 
-![Free](https://img.shields.io/badge/-Free-blueviolet) [PDF Full Text](https://www.cell.com/action/showPdf?pii=S0092-8674%2823%2900859-0) \| 
+[Journal Link](https://doi.org/10.1016/j.cell.2023.08.005) \| 
+![Free](https://img.shields.io/badge/-Free-blueviolet) [PDF Full Text](https://samuel-marsh.science/PDFs/Gazestani_et_al_2023.pdf) \| 
 [SI Tables](https://www.cell.com/cell/fulltext/S0092-8674(23)00859-0#supplementaryMaterial) \| 
 [Data Link](https://braincelldata.org/resource) \|
 [Code](https://app.terra.bio/#workspaces/fbrihuman/sconline_integrative_analysis) \|
