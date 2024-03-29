@@ -6,6 +6,8 @@ links:
     url: "https://samuel-marsh.science/links/full_bibliography"
   - label: Google Scholar
     url: "https://scholar.google.com/citations?user=BxMhd9wAAAAJ&hl=en"
+  - label: Linkedin
+    url: "https://www.linkedin.com/in/samuelmarsh"
   - label: Twitter
     url: "https://twitter.com/samuel_marsh"
   - label: GitHub
@@ -20,7 +22,11 @@ output:
 
 ## Bio
 
-I'm a postdoctoral fellow at Boston Children's Hospital/Harvard Medical School in the lab of Dr. Beth Stevens.  Broadly my research interests are focused on better understanding the immune cells of the brain, microglia, and their function and dysfunction in aging and neurodgenerative disease.  Currently, I'm utilizing single cell genomics to better characterize and understand microglia and their interactions with other brain cell populations with a focus on aging and Alzheimer's disease.
+I'm a hard-working, collaborative, and motivated neuroscientist and neuroimmunologist with 10+ years studying neurodegeneration, aging, and CNS immunity. I have wide-ranging expertise from molecular neuroscience, animal models & behavior, and single-cell and bulk transcriptomics and analysis.
+
+I am currently a postdoctoral fellow in the lab of Dr. Beth Stevens, where my work centers around understanding immune system dysfunction in Alzheimer’s disease and aging. My projects are focused on the application single cell sequencing (scRNA-seq) technology to understand the gene expression changes that occur during aging and disease. Utilizing the unparalleled resolution of scRNA-seq to understand the complex cell-to-cell interactions that mediate disease pathogenesis. My projects involve both animal models and human subjects in an attempt to better bridge the gap between basic science and clinical translation.
+
+I graduated from Northeastern University with B.S. in Behavioral Neuroscience and received my Ph.D. in Neurobiology & Behavior from UC Irvine. My doctoral work in the lab of Dr. Mathew Blurton-Jones focused on the role of the peripheral adaptive immune system in Alzheimer’s disease. My research uncovered a novel role by which peripheral adaptive immune signaling modulates microglial function to alter the pathogenesis of Alzheimer’s disease.
 
 ## Education
 
