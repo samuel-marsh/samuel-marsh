@@ -22,11 +22,13 @@ output:
 
 ## Bio
 
-I'm a hard-working, collaborative, and motivated neuroscientist and neuroimmunologist with 10+ years studying neurodegeneration, aging, and CNS immunity. I have wide-ranging expertise from molecular neuroscience, animal models & behavior, and single-cell and bulk transcriptomics and analysis.
+I'm a neuroscientist and neuroimmunologist with 10+ years studying neurodegeneration, aging, and neuroimmunology. I have wide-ranging expertise from molecular neuroscience, animal models & behavior, and single-cell and bulk genomics & bioinformatics analyses.
 
-I am currently a postdoctoral fellow in the lab of Dr. Beth Stevens, where my work centers around understanding immune system dysfunction in Alzheimer’s disease and aging. My projects are focused on the application single cell sequencing (scRNA-seq) technology to understand the gene expression changes that occur during aging and disease. Utilizing the unparalleled resolution of scRNA-seq to understand the complex cell-to-cell interactions that mediate disease pathogenesis. My projects involve both animal models and human subjects in an attempt to better bridge the gap between basic science and clinical translation.
+I am currently a postdoctoral fellow in the lab of Dr. Beth Stevens at Boston Children's Hospital, Harvard Medical School, and Broad Institute. My work centers around understanding immune system dysfunction in Alzheimer’s disease and aging. My current projects are focused on the application single cell genomics (scRNA-seq) technology to understand the gene expression changes that occur during aging and disease. By combining multi-modal single cell genomics with both unbiased and targeted proteomics from brain, CSF, and blood from living patients with neurodegenerative disease we hope to uncover novel disease mechanisms and biomarkers.
 
-I graduated from Northeastern University with B.S. in Behavioral Neuroscience and received my Ph.D. in Neurobiology & Behavior from UC Irvine. My doctoral work in the lab of Dr. Mathew Blurton-Jones focused on the role of the peripheral adaptive immune system in Alzheimer’s disease. My research uncovered a novel role by which peripheral adaptive immune signaling modulates microglial function to alter the pathogenesis of Alzheimer’s disease.
+My previous project in the Stevens lab was published in Nature Neuroscience in 2022 and detailed a novel protocol for the isolation of microglia (and other cells) while preventing artifacts in the transcriptional data. We also described the potential of related artifacts to occur in data from biopsy and post-mortem human samples. This project used a combination of single-cell genomics, smFISH, and bioinformatic analyses to detail the importance of accounting for cell isolation/post-mortem factors during scRNA-seq analyses.
+
+I did my Ph.D. in the lab of Dr. Mathew Blurton-Jones at the University of California, Irvine. My thesis work focused on the role of the peripheral adaptive immune system in Alzheimer’s disease. My research uncovered a novel role by which peripheral adaptive immune signaling modulates microglial function to alter the pathogenesis of Alzheimer’s disease. I graduated summa cum laude from Northeastern University with B.S. in Behavioral Neuroscience.
 
 ## Education
 
@@ -40,7 +42,7 @@ B.S. in Behavioral Neuroscience | September 2006 - April 2010
 
 ## Experience
 
-**Boston Children's Hospital/Harvard Medical School** | Postdoctoral Fellow | September 2017 - Present
+**Boston Children's Hospital/Harvard Medical School/Broad Institute** | Postdoctoral Fellow | September 2017 - Present
 
 **The University of California, Irvine** | Postdoctoral Fellow | September 2016 - September 2017
 
@@ -57,7 +59,6 @@ Gazestani V, Kamath T, Nadaf NM, Dougalis A, Burris SJ, Rooney B, Junkkari A, Va
 [Data Link](https://braincelldata.org/resource) \|
 [Code](https://app.terra.bio/#workspaces/fbrihuman/sconline_integrative_analysis) \|
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/37774681/)  
-
 
 `r emo::ji("boom")`**Marsh SE**, Walker, AJ, Kamath, T, Dissing-Olesen, L, Hammond, TR, de Soysa, TY, Young, AMH, Murphy, S, Abdulraouf, A, Nadaf, N, Dufort, C, Walker, AC, Lucca, LE, Kozareva, V, Vanderburg, C, Hong, S, Bulstrode, H, Hutchinson, PJ, Gaffney, DJ, Hafler, DA, Franklin, RJM, Macosko, EZ, Stevens, B (2022).  Dissection of artifactual and confounding glial signatures by single-cell sequencing of mouse and human brain. *Nature Neuroscience* 25(3), 306-316.  
 [Journal Link](https://doi.org/10.1038/s41593-022-01022-8) \| 
@@ -106,7 +107,11 @@ system restrains Alzheimer’s disease pathogenesis by modulating microglia func
 [PDF SI Info](https://www.pnas.org/content/pnas/suppl/2016/02/13/1525466113.DCSupplemental/pnas.201525466SI.pdf) \|
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/26884167/)
 
-### Reviews
+### Reviews  
+
+`r emo::ji("boom")`Colonna M, Konopka G, Liddelow SA, Nowakowski T, Awatramani R, Bateup HS, Caldwell CR, Caglayan E, Chen JL, Gillis J, Kampmann M, Krienen F, **Marsh SE**, Monje M, O’Dea MR, Patani R, Pollen AA, Quintana FJ, Scavuzzo M, Schmitz M, Sloan S, Tesar PJ, Tollkuhn J, Tosches MA, Urbanek ME, Werner JM, Bayraktar OA, Gokce O, Habib N (*2024; in press*). Implementation and validation of single-cell genomics experiments in neuroscience\*. *Nature Neuroscience*.  
+<sup>\*Part of series on use of single cell genomics in neuroscience. See here for link to December issue containing other pieces.</sup>  
+
 `r emo::ji("boom")`Liddelow S\*, **Marsh SE\* **, Stevens B\* (2020).  Microglia and astrocytes in health and disease:
 Dynamic Duo or Partners in Crime?  *Trends in Immunology* 41(9): 820-835.  
 <sup>\*Equal Contribution</sup>  
