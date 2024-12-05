@@ -117,7 +117,7 @@ system restrains Alzheimer’s disease pathogenesis by modulating microglia func
 ![Free](https://img.shields.io/badge/-Free-blueviolet) [PDF Full Text](https://samuel-marsh.science/PDFs/Colonna_et_al_2024.pdf) \| 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/39627589/)  
 *Other reviews from the same working group:*  
-![Free](https://img.shields.io/badge/-Free-blueviolet) [Adameyko et al., 2024](https://samuel-marsh.science/PDFs/Adameyko_et_al_2024) \| 
+![Free](https://img.shields.io/badge/-Free-blueviolet) [Adameyko et al., 2024](https://samuel-marsh.science/PDFs/Adameyko_et_al_2024.pdf) \| 
 ![Free](https://img.shields.io/badge/-Free-blueviolet) [Bonev et al., 2024](https://samuel-marsh.science/PDFs/Bonev_et_al_2024.pdf)  
 
 `r emo::ji("boom")`Liddelow S\*, **Marsh SE\* **, Stevens B\* (2020).  Microglia and astrocytes in health and disease:
