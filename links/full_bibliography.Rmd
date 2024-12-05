@@ -113,8 +113,14 @@ system restrains Alzheimer’s disease pathogenesis by modulating microglia func
 
 ### Reviews  
 
-`r emo::ji("boom")`Colonna M, Konopka G, Liddelow SA, Nowakowski T, Awatramani R, Bateup HS, Caldwell CR, Caglayan E, Chen JL, Gillis J, Kampmann M, Krienen F, **Marsh SE**, Monje M, O’Dea MR, Patani R, Pollen AA, Quintana FJ, Scavuzzo M, Schmitz M, Sloan S, Tesar PJ, Tollkuhn J, Tosches MA, Urbanek ME, Werner JM, Bayraktar OA, Gokce O, Habib N (*2024; in press*). Implementation and validation of single-cell genomics experiments in neuroscience\*. *Nature Neuroscience*.  
-<sup>\*Part of series on use of single cell genomics in neuroscience. See here for link to December issue containing other pieces.</sup>  
+`r emo::ji("boom")`Colonna M, Konopka G, Liddelow SA, Nowakowski T, Awatramani R, Bateup HS, Caldwell CR, Caglayan E, Chen JL, Gillis J, Kampmann M, Krienen F, **Marsh SE**, Monje M, O’Dea MR, Patani R, Pollen AA, Quintana FJ, Scavuzzo M, Schmitz M, Sloan S, Tesar PJ, Tollkuhn J, Tosches MA, Urbanek ME, Werner JM, Bayraktar OA, Gokce O, Habib N (2024). Implementation and validation of single-cell genomics experiments in neuroscience\*. *Nature Neuroscience* 27(12):2310–2325.  
+<sup>\*Part of series of consensus review pieces on single cell genomics in neuroscience. See below for links to other pieces.</sup>  
+[Journal Link](https://doi.org/10.1038/s41593-024-01814-0) \| 
+![Free](https://img.shields.io/badge/-Free-blueviolet) [PDF Full Text](https://samuel-marsh.science/PDFs/Colonna_et_al_2024.pdf) \| 
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/39627589/)  
+*Other reviews from the same working group:*  
+![Free](https://img.shields.io/badge/-Free-blueviolet) [Adameyko et al., 2024](https://samuel-marsh.science/PDFs/Adameyko_et_al_2024) \| 
+![Free](https://img.shields.io/badge/-Free-blueviolet) [Bonev et al., 2024](https://samuel-marsh.science/PDFs/Bonev_et_al_2024.pdf)  
 
 Kloske CM, Barnum CJ, Batista AF, Bradshaw EM, Brickman AM, Bu G, Dennison J, Gearon MD, Goate AM, Haass C, Heneka MT, Hu WT, Huggins LKL, Jones NS, Koldamova R, Lemere CA, Liddelow SA, Marcora E, **Marsh SE**, Nielsen HM, Petersen KK, Petersen M, Piña-Escudero SD, Qiu WQ, Quiroz YT, Reiman E, Sexton C, Tansey MG, Tcw J, Teunissen CE, Tijms BM, van der Kant R, Wallings R, Weninger SC, Wharton W, Wilcock DM, Wishard TJ, Worley SL, Zetterberg H, Carrillo MC (2023). APOE and immunity: Research highlights.  *Alzheimers Dement*, PMID: 36975090. 10.1002/alz.13020.  
 ![Open Access](https://img.shields.io/badge/-Open Access-green)
