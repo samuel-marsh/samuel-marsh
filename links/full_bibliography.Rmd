@@ -30,9 +30,10 @@ Dolan M-J, Therrien M, Jereb S, Kamath T, Gazestani V, Atkeson T, **Marsh SE**, 
 
 
 `r emo::ji("boom")`**Marsh SE**, Walker, AJ, Kamath, T, Dissing-Olesen, L, Hammond, TR, de Soysa, TY, Young, AMH, Murphy, S, Abdulraouf, A, Nadaf, N, Dufort, C, Walker, AC, Lucca, LE, Kozareva, V, Vanderburg, C, Hong, S, Bulstrode, H, Hutchinson, PJ, Gaffney, DJ, Hafler, DA, Franklin, RJM, Macosko, EZ, Stevens, B (2022).  Dissection of artifactual and confounding glial signatures by single-cell sequencing of mouse and human brain. *Nature Neuroscience* 25(3), 306-316.  
-[Journal Link](https://doi.org/10.1038/s41593-022-01022-8) \| 
-![Free](https://img.shields.io/badge/-Free-blueviolet) [PDF Full Text](https://samuel-marsh.science/PDFs/Marsh_et_al_2022.pdf) \| 
-[PDF SI Figures & Notes/Discussion](https://samuel-marsh.science/PDFs/Marsh_et_al_2022_SI.pdf) \| 
+![Open Access](https://img.shields.io/badge/-Open Access-green)
+[Full Text](https://doi.org/10.1038/s41593-022-01022-8) \| 
+[PDF Full Text](https://www.nature.com/articles/s41593-022-01022-8.pdf) \| 
+[PDF SI Figures & Notes/Discussion](https://static-content.springer.com/esm/art%3A10.1038%2Fs41593-022-01022-8/MediaObjects/41593_2022_1022_MOESM1_ESM.pdf) \|  
 [Code](https://github.com/samuel-marsh/Marsh_et-al_2022_scRNAseq_Dissociation_Artifacts) \| 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/35260865/) \| 
 
