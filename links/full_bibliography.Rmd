@@ -12,6 +12,22 @@ output:
 
 #### Primary Research  
 
+Barr HJ, Caldwell SK, Reimertz JM, Depp CM, Walker AJ, **Marsh SE**, Gupte AS, Hingerl M, Park S, Patel J, Park S-O, Ferraro S, Lipton J, Stevens B (2025).  The circadian clock regulates scavenging of fluid-borne substrates by brain border-associated macrophages. *bioRxiv*.  
+![Open Access](https://img.shields.io/badge/-Open Access-green)
+[Full Text](https://doi.org/10.64898/2025.12.08.693074) \| 
+[PDF Full Text](https://www.biorxiv.org/content/10.64898/2025.12.08.693074v1.full.pdf) \| 
+
+Barr HJ, Depp C, Hingerl M, Nguyen T, Reimertz JM, Connolly E, Patel J, Doman JL, **Marsh SE**, Stevens B (2025). Conserved phenotype and function of human brain border-associated macrophages in iPSC-derived models. *bioRxiv*.  
+![Open Access](https://img.shields.io/badge/-Open Access-green)
+[Full Text](https://doi.org/10.64898/2025.12.11.693582) \| 
+[PDF Full Text](https://www.biorxiv.org/content/10.64898/2025.12.11.693582v1.full.pdf) \| 
+
+Walker AJ, Fisher TM, Caldwell SK, Gupte AS, Reimertz J, Sabikunnahar B, **Marsh SE**, de Soysa Y, Gazestani V, Walker AC, Huang Y, Mavinkurve A, Barr HJ, Lanser TB, Murphy S, Bowling S, Dissing-OIesen L, Camargo FD, Stevens B (2025). Early life stromal niches orchestrate local B lymphopoiesis at the brain’s borders. *bioRxiv*.  
+![Open Access](https://img.shields.io/badge/-Open Access-green)
+[Full Text](https://doi.org/10.1101/2025.11.27.690844) \| 
+[PDF Full Text](https://www.biorxiv.org/content/10.1101/2025.11.27.690844v1.full.pdf) \| 
+[Data Link](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE312965) \|  
+
 Gazestani V, Kamath T, Nadaf NM, Dougalis A, Burris SJ, Rooney B, Junkkari A, Vanderburg C, Pelkonen A, Gomez-Budia M, Välimäki NN, Rauramaa T, Therrien M, Koivisto AM, Tegtmeyer M, Herukka SK, Abdulraouf A, **Marsh SE**, Hiltunen M, Nehme R, Malm T, Stevens B, Leinonen V, Macosko EZ (2023). Early Alzheimer’s disease pathology in human cortex involves transient cell states. *Cell*, 186(20):4438--4453.e23.  PMID: 37774681. doi.org/10.1016/j.cell.2023.08.005.  
 [Journal Link](https://doi.org/10.1016/j.cell.2023.08.005) \| 
 ![Free](https://img.shields.io/badge/-Free-blueviolet) [PDF Full Text](https://samuel-marsh.science/PDFs/Gazestani_et_al_2023.pdf) \| 

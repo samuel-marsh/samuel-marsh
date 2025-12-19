@@ -54,6 +54,11 @@ Selected bibliography can be found below and full bibliography can be found [her
 
 #### Primary Research  
 
+Barr HJ, Caldwell SK, Reimertz JM, Depp CM, Walker AJ, **Marsh SE**, Gupte AS, Hingerl M, Park S, Patel J, Park S-O, Ferraro S, Lipton J, Stevens B (2025).  The circadian clock regulates scavenging of fluid-borne substrates by brain border-associated macrophages. *bioRxiv*.
+![Open Access](https://img.shields.io/badge/-Open Access-green)
+[Full Text](https://doi.org/10.64898/2025.12.08.693074) \| 
+[PDF Full Text](https://www.biorxiv.org/content/10.64898/2025.12.08.693074v1.full.pdf) \| 
+
 Gazestani V, Kamath T, Nadaf NM, Dougalis A, Burris SJ, Rooney B, Junkkari A, Vanderburg C, Pelkonen A, Gomez-Budia M, Välimäki NN, Rauramaa T, Therrien M, Koivisto AM, Tegtmeyer M, Herukka SK, Abdulraouf A, **Marsh SE**, Hiltunen M, Nehme R, Malm T, Stevens B, Leinonen V, Macosko EZ (2023). Early Alzheimer’s disease pathology in human cortex involves transient cell states. *Cell*, 186(20):4438--4453.e23.  PMID: 37774681. doi.org/10.1016/j.cell.2023.08.005.  
 [Journal Link](https://doi.org/10.1016/j.cell.2023.08.005) \| 
 ![Free](https://img.shields.io/badge/-Free-blueviolet) [PDF Full Text](https://samuel-marsh.science/PDFs/Gazestani_et_al_2023.pdf) \| 
